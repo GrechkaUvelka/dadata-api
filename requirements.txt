@@ -1,0 +1,15 @@
+Для работы программы необходимы следующие модули (Версия Python 3 и выше): 
+
+dadata
+pip install dadata
+
+sqlite3
+pip install sqlite3
+
+The following modules are required for the program to work (Python 3 version and higher): 
+
+dadata
+pip install dadata
+
+sqlite3
+pip install sqlite3
