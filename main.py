@@ -1,5 +1,8 @@
 from dadata import Dadata
 import sqlite3
+import rsa
+
+publickey, privatekey = rsa.newkeys(512)
 
 def init():
     global result
